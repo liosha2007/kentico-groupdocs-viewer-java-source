@@ -30,8 +30,8 @@ This Kentico plugin for *GroupDocs Viewer for Java*
 
 ### Development notes
 
-* You should open Kentico CMS directory as WEb site from Visual Studio (for example 2010) for develop web part.
-* Please, read this [documentation](http://devnet.kentico.com/docs/devguide/index.html?developing_web_parts.htm)
+* You should open Kentico CMS directory as WEB site from Visual Studio (for example 2010) for develop web part.
+* Please, read this [documentation]( http://devnet.kentico.com/docs/devguide/index.html?developing_web_parts.htm )
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
 1. [Sign documents online with GroupDocs Signature](http://groupdocs.com/apps/signature)

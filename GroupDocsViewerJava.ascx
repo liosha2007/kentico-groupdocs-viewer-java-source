@@ -15,10 +15,10 @@
 </script>
 <script type="text/javascript" src="<%# Url %>/assets/js/installableViewer.min.js"></script>
 <script type="text/javascript">
-    $.fn.groupdocsViewer.prototype.applicationPath = '<%# Url %>/';
+    $.ui.groupdocsViewer.prototype.applicationPath = '<%# Url %>/';
 </script>
 <script type="text/javascript">
-    $.fn.groupdocsViewer.prototype.useHttpHandlers = <%# UseHttpHandlers.ToString().ToLower() %>;
+    $.ui.groupdocsViewer.prototype.useHttpHandlers = <%# UseHttpHandlers.ToString().ToLower() %>;
 </script>
 <script type="text/javascript" src="<%# Url %>/assets/js/GroupdocsViewer.all.min.js"></script>
 
